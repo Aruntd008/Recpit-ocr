@@ -8,6 +8,7 @@ __pycache__/
 *.so
 
 inference/
+kie_vgg16/
 inference_results/
 output/
 train_data/
